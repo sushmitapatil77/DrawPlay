@@ -1,0 +1,41 @@
+commit 4eea84f2378be076f512df22659977e1b5cbaa24
+Author: Fisher Darling <fdarling@mines.edu>
+Date:   Thu Feb 13 12:06:01 2020 -0700
+
+    Add author doc-comments
+
+commit f5b3d37860bb650ea097ecd1c4a225849cfb337f
+Author: sushmita <sushmitapatil@mymail.mines.edu>
+Date:   Thu Feb 13 19:04:41 2020 -0700
+
+    Changed text
+
+commit baa136f465a6c1dbedf7ee1bfc2407696495c23f
+Author: Fisher Darling <fdarling@mines.edu>
+Date:   Thu Feb 13 12:03:02 2020 -0700
+
+    Change head dimensions
+
+commit c7558ea26dee523a1d2433ee854a1afb42ec611a
+Author: sushmita <sushmitapatil@mymail.mines.edu>
+Date:   Thu Feb 13 19:01:58 2020 -0700
+
+    Changed head and eye color
+
+commit fce2c985809de16e8ab782c2a384c70897b75cbe
+Author: Fisher Darling <fdarling@mines.edu>
+Date:   Thu Feb 13 11:59:44 2020 -0700
+
+    Changed size, eye color, and text
+
+commit a468fe1a6a3fff788ae1cfc19ee69c2eec4add6a
+Author: sushmita <sushmitapatil@mymail.mines.edu>
+Date:   Thu Feb 13 18:53:44 2020 -0700
+
+    Another initial commit
+
+commit d9b9ce947b7ec161a897113f0b4390b5494d1a61
+Author: sushmita <sushmitapatil@mymail.mines.edu>
+Date:   Thu Feb 13 18:45:43 2020 -0700
+
+    Initial commit
